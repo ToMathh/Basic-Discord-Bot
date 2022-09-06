@@ -7,7 +7,7 @@ const fs = require('fs');
 
 
 
-client.login('     ');
+client.login('BOT KEY AUTH');
 
 //Start Bot
   client.on("ready", () =>{
