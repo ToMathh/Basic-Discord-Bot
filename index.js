@@ -7,7 +7,7 @@ const fs = require('fs');
 
 
 
-client.login('ODE4NjY0MTc5NTE5MDYyMDYz.YEbWbg.AVIYtsCk9C9htFHPEOT7H6c2LOg');
+client.login('     ');
 
 //Start Bot
   client.on("ready", () =>{
